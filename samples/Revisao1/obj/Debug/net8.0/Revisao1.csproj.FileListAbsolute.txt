@@ -1,0 +1,14 @@
+C:\classes\Alunos\Luisa\samples\Revisao1\bin\Debug\net8.0\Revisao1.exe
+C:\classes\Alunos\Luisa\samples\Revisao1\bin\Debug\net8.0\Revisao1.deps.json
+C:\classes\Alunos\Luisa\samples\Revisao1\bin\Debug\net8.0\Revisao1.runtimeconfig.json
+C:\classes\Alunos\Luisa\samples\Revisao1\bin\Debug\net8.0\Revisao1.dll
+C:\classes\Alunos\Luisa\samples\Revisao1\bin\Debug\net8.0\Revisao1.pdb
+C:\classes\Alunos\Luisa\samples\Revisao1\obj\Debug\net8.0\Revisao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\classes\Alunos\Luisa\samples\Revisao1\obj\Debug\net8.0\Revisao1.AssemblyInfoInputs.cache
+C:\classes\Alunos\Luisa\samples\Revisao1\obj\Debug\net8.0\Revisao1.AssemblyInfo.cs
+C:\classes\Alunos\Luisa\samples\Revisao1\obj\Debug\net8.0\Revisao1.csproj.CoreCompileInputs.cache
+C:\classes\Alunos\Luisa\samples\Revisao1\obj\Debug\net8.0\Revisao1.dll
+C:\classes\Alunos\Luisa\samples\Revisao1\obj\Debug\net8.0\refint\Revisao1.dll
+C:\classes\Alunos\Luisa\samples\Revisao1\obj\Debug\net8.0\Revisao1.pdb
+C:\classes\Alunos\Luisa\samples\Revisao1\obj\Debug\net8.0\Revisao1.genruntimeconfig.cache
+C:\classes\Alunos\Luisa\samples\Revisao1\obj\Debug\net8.0\ref\Revisao1.dll

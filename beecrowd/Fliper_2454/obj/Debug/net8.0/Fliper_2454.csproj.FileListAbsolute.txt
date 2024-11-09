@@ -1,0 +1,4 @@
+C:\classes\Alunos\Luisa\beecrowd\Fliper_2454\obj\Debug\net8.0\Fliper_2454.GeneratedMSBuildEditorConfig.editorconfig
+C:\classes\Alunos\Luisa\beecrowd\Fliper_2454\obj\Debug\net8.0\Fliper_2454.AssemblyInfoInputs.cache
+C:\classes\Alunos\Luisa\beecrowd\Fliper_2454\obj\Debug\net8.0\Fliper_2454.AssemblyInfo.cs
+C:\classes\Alunos\Luisa\beecrowd\Fliper_2454\obj\Debug\net8.0\Fliper_2454.csproj.CoreCompileInputs.cache
